@@ -45,6 +45,7 @@ export default function App(){
     const done=finish(a);submitted.current.add(a.id);const next=[done,...history];setHistory(next);save('history',next);setActive(null);save('active',null);setConfirm(null);go(`result/${done.id}`);
   };
   useEffect(()=>{if(active?.endAt&&remaining(active,now)===0)submit(active);});
+  useEffect(()=>{if(route==='exam'&&location.hash==='#exam'&&active&&!active.endAt&&active.resumedAt===null)update({...active,resumedAt:Date.now()});},[route,active]);
   const openSetup=(mode:Mode,week?:number)=>{setSetup({mode,weeks:week?[week]:weeks,count:20,minutes:preferences.minutes,shuffle:preferences.shuffle,shuffleOptions:preferences.shuffleOptions});};
   const start=()=>{if(!setup)return;try{const a=createAttempt(bank,setup,errors);update(a);setPreferences({...preferences,minutes:setup.minutes,shuffle:setup.shuffle,shuffleOptions:setup.shuffleOptions});setSetup(null);setConfirm(null);go('exam');}catch(e){setNotice(String(e));}};
   const resume=()=>{if(active){update({...active,resumedAt:active.resumedAt??Date.now()});go('exam');}};
