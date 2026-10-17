@@ -1,0 +1,4962 @@
+{
+  "sourceFilename": "RSAI-2026-Weeks-1-to-12-Combined.pdf",
+  "sourceSha256": "bd697c8fa0a32c81a19f832dc469f6e339f537f6a0e48e25483244e0d2ccaea5",
+  "pages": 39,
+  "questions": 141,
+  "extraction": "PyMuPDF native spans; red option labels RGB ff0000; explicit numerical answer lines",
+  "questionBoundaries": [
+    {
+      "id": "week-1-q1",
+      "markers": [
+        {
+          "page": 1,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 1,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 1,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 1,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 1,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q2",
+      "markers": [
+        {
+          "page": 1,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 1,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 1,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 1,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 1,
+          "y": 326.28515625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q3",
+      "markers": [
+        {
+          "page": 1,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 1,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 1,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 1,
+          "y": 457.2015380859375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 1,
+          "y": 486.2940673828125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q4",
+      "markers": [
+        {
+          "page": 1,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 1,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 1,
+          "y": 602.6641845703125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 1,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 1,
+          "y": 646.302978515625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q5",
+      "markers": [
+        {
+          "page": 1,
+          "y": 733.58056640625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 2,
+          "y": 35.35986328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 2,
+          "y": 49.9061279296875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 2,
+          "y": 64.452392578125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 2,
+          "y": 93.544921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q6",
+      "markers": [
+        {
+          "page": 2,
+          "y": 166.2762451171875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 2,
+          "y": 180.822509765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 2,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 2,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 2,
+          "y": 253.5538330078125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q7",
+      "markers": [
+        {
+          "page": 2,
+          "y": 340.8314208984375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 2,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 2,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 2,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 2,
+          "y": 413.562744140625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q8",
+      "markers": [
+        {
+          "page": 2,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 2,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 2,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 2,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 2,
+          "y": 573.5716552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q9",
+      "markers": [
+        {
+          "page": 2,
+          "y": 631.7567138671875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 2,
+          "y": 646.302978515625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 2,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 2,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 2,
+          "y": 704.488037109375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q10",
+      "markers": [
+        {
+          "page": 3,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 3,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 3,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 3,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 3,
+          "y": 151.72998046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q11",
+      "markers": [
+        {
+          "page": 3,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 3,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 3,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 3,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 3,
+          "y": 311.7388916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-1-q12",
+      "markers": [
+        {
+          "page": 3,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 3,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 3,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 3,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 3,
+          "y": 457.20166015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q1",
+      "markers": [
+        {
+          "page": 4,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 4,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 4,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 4,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 4,
+          "y": 151.72998046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q2",
+      "markers": [
+        {
+          "page": 4,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 4,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 4,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 4,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 4,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 4,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "f"
+        },
+        {
+          "page": 4,
+          "y": 311.7388916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q3",
+      "markers": [
+        {
+          "page": 4,
+          "y": 400.11865234375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 4,
+          "y": 414.6649169921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 4,
+          "y": 429.211181640625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 4,
+          "y": 443.7574462890625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 4,
+          "y": 472.8499755859375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q4",
+      "markers": [
+        {
+          "page": 4,
+          "y": 531.0350341796875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 4,
+          "y": 545.581298828125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 4,
+          "y": 574.673828125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 4,
+          "y": 589.2200927734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 4,
+          "y": 618.3126220703125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q5",
+      "markers": [
+        {
+          "page": 4,
+          "y": 691.0439453125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 4,
+          "y": 705.5902099609375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 4,
+          "y": 720.136474609375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 4,
+          "y": 734.6827392578125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 5,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q6",
+      "markers": [
+        {
+          "page": 5,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 5,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 5,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 5,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 5,
+          "y": 180.822509765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q7",
+      "markers": [
+        {
+          "page": 5,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 5,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 5,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 5,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 5,
+          "y": 311.7388916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q8",
+      "markers": [
+        {
+          "page": 5,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 5,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 5,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 5,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 5,
+          "y": 442.6552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q9",
+      "markers": [
+        {
+          "page": 5,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 5,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 5,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 5,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 5,
+          "y": 573.5716552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q10",
+      "markers": [
+        {
+          "page": 5,
+          "y": 646.302978515625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 5,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 5,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 5,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 5,
+          "y": 719.0343017578125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q11",
+      "markers": [
+        {
+          "page": 6,
+          "y": 64.452392578125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 6,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 6,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 6,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 6,
+          "y": 137.1837158203125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-2-q12",
+      "markers": [
+        {
+          "page": 6,
+          "y": 180.822509765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 6,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 6,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 6,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 6,
+          "y": 253.5538330078125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q1",
+      "markers": [
+        {
+          "page": 7,
+          "y": 166.2762451171875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 7,
+          "y": 180.822509765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 7,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 7,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 7,
+          "y": 239.007568359375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q2",
+      "markers": [
+        {
+          "page": 7,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 7,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 7,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 7,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 7,
+          "y": 471.747802734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q3",
+      "markers": [
+        {
+          "page": 7,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 7,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 7,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 7,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 7,
+          "y": 602.6641845703125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q4",
+      "markers": [
+        {
+          "page": 7,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 7,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 7,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 7,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 8,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q5",
+      "markers": [
+        {
+          "page": 8,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 8,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 8,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 8,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 8,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q6",
+      "markers": [
+        {
+          "page": 8,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 8,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 8,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 8,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 8,
+          "y": 297.192626953125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q7",
+      "markers": [
+        {
+          "page": 8,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 8,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 8,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 8,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 8,
+          "y": 442.6552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q8",
+      "markers": [
+        {
+          "page": 8,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 8,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 8,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 8,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 8,
+          "y": 602.6641845703125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q9",
+      "markers": [
+        {
+          "page": 9,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 9,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 9,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 9,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 9,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q10",
+      "markers": [
+        {
+          "page": 9,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 9,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 9,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 9,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 9,
+          "y": 326.28515625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q11",
+      "markers": [
+        {
+          "page": 9,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 9,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 9,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 9,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 9,
+          "y": 471.747802734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-3-q12",
+      "markers": [
+        {
+          "page": 9,
+          "y": 544.47900390625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 9,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 9,
+          "y": 573.57177734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 9,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 9,
+          "y": 602.6640625,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 9,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "f"
+        },
+        {
+          "page": 9,
+          "y": 646.302978515625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q1",
+      "markers": [
+        {
+          "page": 10,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 10,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 10,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 10,
+          "y": 166.2762451171875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 10,
+          "y": 195.3687744140625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q2",
+      "markers": [
+        {
+          "page": 10,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 10,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 10,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 10,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 10,
+          "y": 340.8314208984375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q3",
+      "markers": [
+        {
+          "page": 10,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 10,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 10,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 10,
+          "y": 457.2015380859375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 10,
+          "y": 486.2940673828125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q4",
+      "markers": [
+        {
+          "page": 10,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 10,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 10,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 10,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 10,
+          "y": 617.21044921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q5",
+      "markers": [
+        {
+          "page": 10,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 10,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 10,
+          "y": 719.0343017578125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 10,
+          "y": 733.58056640625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 11,
+          "y": 49.9061279296875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q6",
+      "markers": [
+        {
+          "page": 11,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 11,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 11,
+          "y": 166.2762451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 11,
+          "y": 180.822509765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 11,
+          "y": 209.9150390625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q7",
+      "markers": [
+        {
+          "page": 11,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 11,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 11,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 11,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 11,
+          "y": 340.8314208984375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q8",
+      "markers": [
+        {
+          "page": 11,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 11,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 11,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 11,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 11,
+          "y": 471.747802734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q9",
+      "markers": [
+        {
+          "page": 11,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 11,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 11,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 11,
+          "y": 602.6641845703125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 11,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 11,
+          "y": 631.7567138671875,
+          "kind": "option",
+          "option": "f"
+        },
+        {
+          "page": 11,
+          "y": 660.8492431640625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q10",
+      "markers": [
+        {
+          "page": 11,
+          "y": 733.58056640625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 12,
+          "y": 35.35986328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 12,
+          "y": 49.9061279296875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 12,
+          "y": 64.452392578125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 12,
+          "y": 93.544921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q11",
+      "markers": [
+        {
+          "page": 12,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 12,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 12,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 12,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 12,
+          "y": 311.7388916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-4-q12",
+      "markers": [
+        {
+          "page": 12,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 12,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 12,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 12,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 12,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 12,
+          "y": 471.747802734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q1",
+      "markers": [
+        {
+          "page": 13,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 13,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 13,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 13,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 13,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q2",
+      "markers": [
+        {
+          "page": 13,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 13,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 13,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 13,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 13,
+          "y": 282.6463623046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q3",
+      "markers": [
+        {
+          "page": 13,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 13,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 13,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 13,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 13,
+          "y": 442.6552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q4",
+      "markers": [
+        {
+          "page": 13,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 13,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 13,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 13,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 13,
+          "y": 588.117919921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q5",
+      "markers": [
+        {
+          "page": 13,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 13,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 13,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 13,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 14,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q6",
+      "markers": [
+        {
+          "page": 14,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 14,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 14,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 14,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 14,
+          "y": 268.10009765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q7",
+      "markers": [
+        {
+          "page": 14,
+          "y": 340.8314208984375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 14,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 14,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 14,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 14,
+          "y": 413.562744140625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q8",
+      "markers": [
+        {
+          "page": 14,
+          "y": 486.2940673828125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 14,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 14,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 14,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 14,
+          "y": 559.025390625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q9",
+      "markers": [
+        {
+          "page": 14,
+          "y": 695.66064453125,
+          "kind": "answer",
+          "option": ""
+        },
+        {
+          "page": 15,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q10",
+      "markers": [
+        {
+          "page": 15,
+          "y": 246.2734375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 15,
+          "y": 260.819580078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 15,
+          "y": 275.365966796875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 15,
+          "y": 289.912109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 15,
+          "y": 319.004638671875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q11",
+      "markers": [
+        {
+          "page": 15,
+          "y": 377.189697265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 15,
+          "y": 391.736083984375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 15,
+          "y": 406.2822265625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 15,
+          "y": 420.82861328125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 15,
+          "y": 449.921142578125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-5-q12",
+      "markers": [
+        {
+          "page": 15,
+          "y": 508.106201171875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 15,
+          "y": 522.65234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 15,
+          "y": 551.744873046875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 15,
+          "y": 580.83740234375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 15,
+          "y": 624.476318359375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q1",
+      "markers": [
+        {
+          "page": 16,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 16,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 16,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 16,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 16,
+          "y": 180.822509765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q2",
+      "markers": [
+        {
+          "page": 16,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 16,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 16,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 16,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 16,
+          "y": 340.8314208984375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q3",
+      "markers": [
+        {
+          "page": 16,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 16,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 16,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 16,
+          "y": 457.2015380859375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 16,
+          "y": 486.2940673828125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q4",
+      "markers": [
+        {
+          "page": 16,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 16,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 16,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 16,
+          "y": 602.6641845703125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 16,
+          "y": 631.9988403320312,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q5",
+      "markers": [
+        {
+          "page": 16,
+          "y": 703.779296875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 16,
+          "y": 718.8766479492188,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 17,
+          "y": 35.60198974609375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 17,
+          "y": 50.69927978515625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 17,
+          "y": 65.796630859375,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 17,
+          "y": 95.4403076171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q6",
+      "markers": [
+        {
+          "page": 17,
+          "y": 232.384521484375,
+          "kind": "answer",
+          "option": ""
+        },
+        {
+          "page": 17,
+          "y": 261.47705078125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q7",
+      "markers": [
+        {
+          "page": 17,
+          "y": 616.84423828125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 17,
+          "y": 631.3905029296875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 17,
+          "y": 645.936767578125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 17,
+          "y": 660.4830322265625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 17,
+          "y": 684.029296875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q8",
+      "markers": [
+        {
+          "page": 18,
+          "y": 50.69940185546875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 18,
+          "y": 65.79656982421875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 18,
+          "y": 95.99127197265625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 18,
+          "y": 111.08868408203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 18,
+          "y": 155.82952880859375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q9",
+      "markers": [
+        {
+          "page": 18,
+          "y": 294.4038391113281,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 18,
+          "y": 309.50115966796875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 18,
+          "y": 324.59857177734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 18,
+          "y": 343.4962463378906,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 18,
+          "y": 373.13983154296875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q10",
+      "markers": [
+        {
+          "page": 18,
+          "y": 454.806640625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 18,
+          "y": 469.352783203125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 18,
+          "y": 483.89892578125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 18,
+          "y": 498.4453125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 18,
+          "y": 527.7799682617188,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q11",
+      "markers": [
+        {
+          "page": 18,
+          "y": 601.92236328125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 18,
+          "y": 616.46875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 18,
+          "y": 631.014892578125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 18,
+          "y": 645.561279296875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 18,
+          "y": 674.65380859375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-6-q12",
+      "markers": [
+        {
+          "page": 19,
+          "y": 65.00341796875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 19,
+          "y": 79.5498046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 19,
+          "y": 94.09619140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 19,
+          "y": 108.642333984375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 19,
+          "y": 137.73486328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q1",
+      "markers": [
+        {
+          "page": 20,
+          "y": 79.79185485839844,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 20,
+          "y": 94.64706420898438,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 20,
+          "y": 109.43545532226562,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 20,
+          "y": 124.53280639648438,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 20,
+          "y": 154.1763916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q2",
+      "markers": [
+        {
+          "page": 20,
+          "y": 227.76776123046875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 20,
+          "y": 242.31402587890625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 20,
+          "y": 256.86029052734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 20,
+          "y": 271.40655517578125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 20,
+          "y": 300.49908447265625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q3",
+      "markers": [
+        {
+          "page": 20,
+          "y": 387.7766418457031,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 20,
+          "y": 417.66241455078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 20,
+          "y": 447.30596923828125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 20,
+          "y": 491.8048095703125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 20,
+          "y": 535.443603515625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q4",
+      "markers": [
+        {
+          "page": 20,
+          "y": 608.1749267578125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 20,
+          "y": 622.72119140625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 20,
+          "y": 637.2674560546875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 20,
+          "y": 651.813720703125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 20,
+          "y": 680.90625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q5",
+      "markers": [
+        {
+          "page": 21,
+          "y": 64.452392578125,
+          "kind": "answer",
+          "option": ""
+        },
+        {
+          "page": 21,
+          "y": 93.544921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q6",
+      "markers": [
+        {
+          "page": 21,
+          "y": 350.4632568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 21,
+          "y": 375.8908996582031,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 21,
+          "y": 402.4523010253906,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 21,
+          "y": 418.132568359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 21,
+          "y": 447.46722412109375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q7",
+      "markers": [
+        {
+          "page": 21,
+          "y": 532.7649536132812,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 21,
+          "y": 547.8622436523438,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 21,
+          "y": 562.7174072265625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 21,
+          "y": 577.263671875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 21,
+          "y": 606.356201171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q8",
+      "markers": [
+        {
+          "page": 21,
+          "y": 664.541259765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 21,
+          "y": 679.0875244140625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 21,
+          "y": 693.6337890625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 21,
+          "y": 722.726318359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 22,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q9",
+      "markers": [
+        {
+          "page": 22,
+          "y": 108.642333984375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 22,
+          "y": 123.1885986328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 22,
+          "y": 137.73486328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 22,
+          "y": 152.2811279296875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 22,
+          "y": 181.3736572265625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q10",
+      "markers": [
+        {
+          "page": 22,
+          "y": 254.10498046875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 22,
+          "y": 283.197509765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 22,
+          "y": 312.2900390625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 22,
+          "y": 341.382568359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 22,
+          "y": 385.0213623046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q11",
+      "markers": [
+        {
+          "page": 22,
+          "y": 515.937744140625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 22,
+          "y": 530.48388671875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 22,
+          "y": 545.0302734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 22,
+          "y": 559.57666015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 22,
+          "y": 588.6689453125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-7-q12",
+      "markers": [
+        {
+          "page": 22,
+          "y": 666.568115234375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 22,
+          "y": 681.114501953125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 22,
+          "y": 695.66064453125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 22,
+          "y": 710.20703125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 23,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q1",
+      "markers": [
+        {
+          "page": 24,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 24,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 24,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 24,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 24,
+          "y": 151.72998046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q2",
+      "markers": [
+        {
+          "page": 24,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 24,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 24,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 24,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 24,
+          "y": 297.192626953125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q3",
+      "markers": [
+        {
+          "page": 24,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 24,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 24,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 24,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 24,
+          "y": 442.6552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q4",
+      "markers": [
+        {
+          "page": 24,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 24,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 24,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 24,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 24,
+          "y": 573.5716552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q5",
+      "markers": [
+        {
+          "page": 24,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 24,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 24,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 24,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 25,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q6",
+      "markers": [
+        {
+          "page": 25,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 25,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 25,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 25,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 25,
+          "y": 180.822509765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q7",
+      "markers": [
+        {
+          "page": 25,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 25,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 25,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 25,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 25,
+          "y": 340.8314208984375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q8",
+      "markers": [
+        {
+          "page": 25,
+          "y": 466.13067626953125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 25,
+          "y": 515.4882202148438,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 25,
+          "y": 545.1318969726562,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 25,
+          "y": 574.7755737304688,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 25,
+          "y": 618.9653930664062,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q9",
+      "markers": [
+        {
+          "page": 25,
+          "y": 726.817138671875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 25,
+          "y": 741.36328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 26,
+          "y": 35.35986328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 26,
+          "y": 49.9061279296875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 26,
+          "y": 78.9986572265625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q10",
+      "markers": [
+        {
+          "page": 26,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 26,
+          "y": 166.2762451171875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 26,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 26,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 26,
+          "y": 282.6463623046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q11",
+      "markers": [
+        {
+          "page": 26,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 26,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 26,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 26,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 26,
+          "y": 442.6552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-8-q12",
+      "markers": [
+        {
+          "page": 26,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 26,
+          "y": 544.47900390625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 26,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 26,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 26,
+          "y": 631.7568359375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q1",
+      "markers": [
+        {
+          "page": 27,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 27,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 27,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 27,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 27,
+          "y": 195.3687744140625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q2",
+      "markers": [
+        {
+          "page": 27,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 27,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 27,
+          "y": 340.8314208984375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 27,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 27,
+          "y": 384.47021484375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q3",
+      "markers": [
+        {
+          "page": 27,
+          "y": 486.2940673828125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 27,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 27,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 27,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 27,
+          "y": 617.21044921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q4",
+      "markers": [
+        {
+          "page": 27,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 27,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 27,
+          "y": 719.0343017578125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 27,
+          "y": 733.58056640625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 28,
+          "y": 49.9061279296875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q5",
+      "markers": [
+        {
+          "page": 28,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 28,
+          "y": 166.2762451171875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 28,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 28,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 28,
+          "y": 268.10009765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q6",
+      "markers": [
+        {
+          "page": 28,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 28,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 28,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 28,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 28,
+          "y": 486.2940673828125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q7",
+      "markers": [
+        {
+          "page": 28,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 28,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 28,
+          "y": 602.6641845703125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 28,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 28,
+          "y": 646.302978515625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q8",
+      "markers": [
+        {
+          "page": 28,
+          "y": 719.0343017578125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 28,
+          "y": 733.58056640625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 29,
+          "y": 35.35986328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 29,
+          "y": 49.9061279296875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 29,
+          "y": 78.9986572265625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q9",
+      "markers": [
+        {
+          "page": 29,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 29,
+          "y": 180.822509765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 29,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 29,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 29,
+          "y": 253.5538330078125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q10",
+      "markers": [
+        {
+          "page": 29,
+          "y": 326.28515625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 29,
+          "y": 340.8314208984375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 29,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 29,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 29,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 29,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "f"
+        },
+        {
+          "page": 29,
+          "y": 428.1090087890625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q11",
+      "markers": [
+        {
+          "page": 29,
+          "y": 515.38671875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 29,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 29,
+          "y": 544.47900390625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 29,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 29,
+          "y": 588.117919921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-9-q12",
+      "markers": [
+        {
+          "page": 29,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 29,
+          "y": 689.94189453125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 29,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 29,
+          "y": 719.0341796875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 30,
+          "y": 49.90625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q1",
+      "markers": [
+        {
+          "page": 31,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 31,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 31,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 31,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 31,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q2",
+      "markers": [
+        {
+          "page": 31,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 31,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 31,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 31,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 31,
+          "y": 355.377685546875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q3",
+      "markers": [
+        {
+          "page": 31,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 31,
+          "y": 457.2015380859375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 31,
+          "y": 471.747802734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 31,
+          "y": 486.2940673828125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 31,
+          "y": 515.3865966796875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q4",
+      "markers": [
+        {
+          "page": 31,
+          "y": 631.7567138671875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 31,
+          "y": 646.302978515625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 31,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 31,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 31,
+          "y": 719.0343017578125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q5",
+      "markers": [
+        {
+          "page": 32,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 32,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 32,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 32,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 32,
+          "y": 180.822509765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q6",
+      "markers": [
+        {
+          "page": 32,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 32,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 32,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 32,
+          "y": 340.8314208984375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 32,
+          "y": 369.9239501953125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q7",
+      "markers": [
+        {
+          "page": 32,
+          "y": 457.2015380859375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 32,
+          "y": 471.747802734375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 32,
+          "y": 486.2940673828125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 32,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 32,
+          "y": 529.932861328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q8",
+      "markers": [
+        {
+          "page": 32,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 32,
+          "y": 646.302978515625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 32,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 32,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 33,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q9",
+      "markers": [
+        {
+          "page": 33,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 33,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 33,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 33,
+          "y": 151.72998046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 33,
+          "y": 180.822509765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q10",
+      "markers": [
+        {
+          "page": 33,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 33,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 33,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 33,
+          "y": 311.7388916015625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 33,
+          "y": 340.8314208984375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q11",
+      "markers": [
+        {
+          "page": 33,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 33,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 33,
+          "y": 457.20166015625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 33,
+          "y": 471.747802734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 33,
+          "y": 500.84033203125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-10-q12",
+      "markers": [
+        {
+          "page": 33,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 33,
+          "y": 602.6640625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 33,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 33,
+          "y": 631.7568359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 33,
+          "y": 660.84912109375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q1",
+      "markers": [
+        {
+          "page": 34,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 34,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 34,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 34,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 34,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q2",
+      "markers": [
+        {
+          "page": 34,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 34,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 34,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 34,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 34,
+          "y": 311.7388916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q3",
+      "markers": [
+        {
+          "page": 34,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 34,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 34,
+          "y": 413.562744140625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 34,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 34,
+          "y": 457.2015380859375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q4",
+      "markers": [
+        {
+          "page": 34,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 34,
+          "y": 559.025390625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 34,
+          "y": 573.5716552734375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 34,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 34,
+          "y": 617.21044921875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q5",
+      "markers": [
+        {
+          "page": 34,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 34,
+          "y": 704.488037109375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 34,
+          "y": 719.0343017578125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 34,
+          "y": 733.58056640625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 35,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q6",
+      "markers": [
+        {
+          "page": 35,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 35,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 35,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 35,
+          "y": 137.1837158203125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 35,
+          "y": 166.2762451171875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q7",
+      "markers": [
+        {
+          "page": 35,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 35,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 35,
+          "y": 297.192626953125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 35,
+          "y": 326.28515625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 35,
+          "y": 355.377685546875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q8",
+      "markers": [
+        {
+          "page": 35,
+          "y": 428.1090087890625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 35,
+          "y": 442.6552734375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 35,
+          "y": 457.2015380859375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 35,
+          "y": 471.747802734375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 35,
+          "y": 500.84033203125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q9",
+      "markers": [
+        {
+          "page": 35,
+          "y": 588.117919921875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 35,
+          "y": 602.6641845703125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 35,
+          "y": 617.21044921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 35,
+          "y": 631.7567138671875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 35,
+          "y": 660.8492431640625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q10",
+      "markers": [
+        {
+          "page": 36,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 36,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 36,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 36,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 36,
+          "y": 151.72998046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-11-q11",
+      "markers": [
+        {
+          "page": 36,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 36,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 36,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 36,
+          "y": 282.6463623046875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 36,
+          "y": 311.7388916015625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q1",
+      "markers": [
+        {
+          "page": 37,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 37,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 37,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 37,
+          "y": 122.637451171875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 37,
+          "y": 151.72998046875,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q2",
+      "markers": [
+        {
+          "page": 37,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 37,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 37,
+          "y": 253.5538330078125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 37,
+          "y": 268.10009765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 37,
+          "y": 297.192626953125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q3",
+      "markers": [
+        {
+          "page": 37,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 37,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 37,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 37,
+          "y": 399.0164794921875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 37,
+          "y": 428.1090087890625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q4",
+      "markers": [
+        {
+          "page": 37,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 37,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 37,
+          "y": 529.932861328125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 37,
+          "y": 544.4791259765625,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 37,
+          "y": 573.5716552734375,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q5",
+      "markers": [
+        {
+          "page": 37,
+          "y": 646.302978515625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 37,
+          "y": 660.8492431640625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 37,
+          "y": 675.3955078125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 37,
+          "y": 689.9417724609375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 37,
+          "y": 719.0343017578125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q6",
+      "markers": [
+        {
+          "page": 38,
+          "y": 64.452392578125,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 38,
+          "y": 78.9986572265625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 38,
+          "y": 93.544921875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 38,
+          "y": 108.0911865234375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 38,
+          "y": 137.1837158203125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q7",
+      "markers": [
+        {
+          "page": 38,
+          "y": 195.3687744140625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 38,
+          "y": 209.9150390625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 38,
+          "y": 224.4613037109375,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 38,
+          "y": 239.007568359375,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 38,
+          "y": 268.10009765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q8",
+      "markers": [
+        {
+          "page": 38,
+          "y": 326.28515625,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 38,
+          "y": 340.8314208984375,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 38,
+          "y": 355.377685546875,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 38,
+          "y": 369.9239501953125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 38,
+          "y": 384.47021484375,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 38,
+          "y": 413.562744140625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q9",
+      "markers": [
+        {
+          "page": 38,
+          "y": 471.747802734375,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 38,
+          "y": 486.2940673828125,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 38,
+          "y": 500.84033203125,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 38,
+          "y": 515.3865966796875,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 38,
+          "y": 544.4791259765625,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    },
+    {
+      "id": "week-12-q10",
+      "markers": [
+        {
+          "page": 38,
+          "y": 602.9063110351562,
+          "kind": "option",
+          "option": "a"
+        },
+        {
+          "page": 38,
+          "y": 636.3502197265625,
+          "kind": "option",
+          "option": "b"
+        },
+        {
+          "page": 38,
+          "y": 651.20556640625,
+          "kind": "option",
+          "option": "c"
+        },
+        {
+          "page": 38,
+          "y": 680.298095703125,
+          "kind": "option",
+          "option": "d"
+        },
+        {
+          "page": 38,
+          "y": 721.865478515625,
+          "kind": "option",
+          "option": "e"
+        },
+        {
+          "page": 39,
+          "y": 35.35986328125,
+          "kind": "explanation",
+          "option": ""
+        }
+      ]
+    }
+  ]
+}
