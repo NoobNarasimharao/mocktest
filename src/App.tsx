@@ -22,7 +22,7 @@ export default function App(){
   const submitted=useRef(new Set(history.map(a=>a.id))), activeRef=useRef(active);activeRef.current=active;
   const errors=mistakes(history,bank),completed=new Set(history.flatMap(a=>a.ids.filter(id=>answered(a.answers[id]))));
   const save=(key:string,value:unknown)=>{if(!write(key,value))setNotice('Browser storage is unavailable or full. This session works, but progress may not survive closing. Export your results.');};
-  useEffect(()=>{const f=()=>{setRoute(location.hash.slice(1)||'dashboard');setFilter('all');window.scrollTo(0,0);};window.addEventListener('hashchange',f);return()=>window.removeEventListener('hashchange',f);},[]);
+  useEffect(()=>{const f=()=>{const next=location.hash.slice(1)||'dashboard';setRoute(next);const a=activeRef.current;if(next==='exam'&&a&&!a.endAt&&a.resumedAt===null){const resumed={...a,resumedAt:Date.now()};setActive(resumed);write('active',resumed);}setFilter('all');window.scrollTo(0,0);};window.addEventListener('hashchange',f);f();return()=>window.removeEventListener('hashchange',f);},[]);
   useEffect(()=>{document.documentElement.dataset.theme=preferences.theme;write('preferences',preferences);},[preferences]);
   useEffect(()=>{const id=setInterval(()=>setNow(Date.now()),500);return()=>clearInterval(id);},[]);
   useEffect(()=>{const f=(e:KeyboardEvent)=>{if(location.hash!=='#exam'||!activeRef.current||['INPUT','SELECT','TEXTAREA'].includes((e.target as HTMLElement).tagName)||e.altKey||e.ctrlKey||e.metaKey)return;if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();const a=activeRef.current;const n=move(a,a.index+(e.key==='ArrowRight'?1:-1));setActive(n);write('active',n);}};window.addEventListener('keydown',f);return()=>window.removeEventListener('keydown',f);},[]);
@@ -45,7 +45,6 @@ export default function App(){
     const done=finish(a);submitted.current.add(a.id);const next=[done,...history];setHistory(next);save('history',next);setActive(null);save('active',null);setConfirm(null);go(`result/${done.id}`);
   };
   useEffect(()=>{if(active?.endAt&&remaining(active,now)===0)submit(active);});
-  useEffect(()=>{if(route==='exam'&&location.hash==='#exam'&&active&&!active.endAt&&active.resumedAt===null)update({...active,resumedAt:Date.now()});},[route,active]);
   const openSetup=(mode:Mode,week?:number)=>{setSetup({mode,weeks:week?[week]:weeks,count:20,minutes:preferences.minutes,shuffle:preferences.shuffle,shuffleOptions:preferences.shuffleOptions});};
   const start=()=>{if(!setup)return;try{const a=createAttempt(bank,setup,errors);update(a);setPreferences({...preferences,minutes:setup.minutes,shuffle:setup.shuffle,shuffleOptions:setup.shuffleOptions});setSetup(null);setConfirm(null);go('exam');}catch(e){setNotice(String(e));}};
   const resume=()=>{if(active){update({...active,resumedAt:active.resumedAt??Date.now()});go('exam');}};
